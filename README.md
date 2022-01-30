@@ -1,4 +1,4 @@
-### Hi I'm Nao　🥳
+### Hi I'm Nao🥳
 
 <!--
 **naonmr/naonmr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
